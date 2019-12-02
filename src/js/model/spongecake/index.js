@@ -1,0 +1,1 @@
+export default ["vanilla", "chocolate", "red velvet", "strawberry"];

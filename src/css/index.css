@@ -1,1 +1,2 @@
-body{background-color: pink;}
+body{background: rgb(238,174,202);
+    background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(235,175,203,1) 4%, rgba(232,175,204,1) 7%, rgba(190,181,218,1) 53%, rgba(186,182,219,1) 57%, rgba(177,183,222,1) 79%, rgba(148,187,233,1) 100%);}
